@@ -20,5 +20,5 @@ Web site to allow users to submit Admission forms online
   * selects school from drop down
 ### Screen D: Applicant - School wise Admission result
   * Applicants can go to this screen directly
-### Screen E: View Admission form
+### Screen E: Applicant - View Admission form
  * Displays the entire Admission form in read-only format
