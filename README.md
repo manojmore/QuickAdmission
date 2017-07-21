@@ -1,6 +1,11 @@
 # QuickAdmission
 Web site to allow users to submit Admission forms online
 
+# Technology stack
+* ASP.Net MVC
+* Azure SQL Database
+* Azure Web app
+
 # Screens
 ### Home: List of registered Schools
   * Displays list of schools who are registered on the site
