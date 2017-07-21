@@ -15,4 +15,7 @@ Web site to allow users to submit Admission forms online
   * Applicants can go to this screen directly
 ### Screen D: School Admission screen
   * Displays class wise list of applicants 
+  * Selecting the application entry in the list will display the applicant's admission form
   * Allows schools to select which applicants can be admitted
+### Screen E: View Admission form
+ * Displays the entire Admission form in read-only format
