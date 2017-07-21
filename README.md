@@ -5,7 +5,7 @@ Web site to allow users to submit Admission forms online
 * ASP.Net MVC
 * Azure SQL Database
 * Azure Web app
-* Bootstrap
+* HTML5, CSS3, Bootstrap
 
 # Screens
 ### Home: List of registered Schools
